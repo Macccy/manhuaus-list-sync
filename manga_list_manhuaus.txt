@@ -1,4 +1,4 @@
-# manhuaus.com — 每行一個系列 slug（對應 https://manhuaus.com/manga/{slug}/）
+⁸# manhuaus.com — 每行一個系列 slug（對應 https://manhuaus.com/manga/{slug}/）
 # 範例（請依實際網址修改）：
 # solo-leveling
 top-tier-providence-secretly-cultivate-for-a-thousand-years
@@ -13,4 +13,4 @@ i-became-the-tyrant-of-a-defence-game
 kidnapped-dragons
 i-got-lucky-and-pulled-a-10th-rank-summon
 goblins-night
-#star-embracing-swordmaster
+star-embracing-swordmaster
