@@ -1,1 +1,12 @@
-
+# 一行一個漫畫 slug（依目標站 URL 規則）
+# 目標站確定後再填入，例如：
+# my-series-slug
+the-extras-academy-survival-guide
+omniscient-readers-viewpoint
+nano-machine
+the-novels-extra-remake
+infinite-mage
+jungle-juice
+the-beginning-after-the-end
+talent-swallowing-magician
+solo-max-level-newbie
