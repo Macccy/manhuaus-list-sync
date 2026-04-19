@@ -36,3 +36,5 @@ level-999-goblin
 the-knight-king-who-returned-with-a-god
 evolution-from-a-tree
 a-wimps-strategy-guide-to-conquer-the-tower
+#logging-10000-years-into-the-future
+#max-level-player
