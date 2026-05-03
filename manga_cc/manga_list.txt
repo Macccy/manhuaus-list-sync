@@ -44,5 +44,5 @@ kangsae-the-strong
 paws-on-campus
 no-escape-squee
 tell-me-the-future
-#desire-note
-#shes-a-married-woman
+desire-note
+shes-a-married-woman
