@@ -14,4 +14,4 @@ absolute-sword-sense
 myst-might-mayhem
 childhood-friend-of-the-zenith
 solo-farming-in-the-tower
-#the-hero-returns
+the-hero-returns
