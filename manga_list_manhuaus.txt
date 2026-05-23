@@ -38,3 +38,4 @@ evolution-from-a-tree
 a-wimps-strategy-guide-to-conquer-the-tower
 logging-10000-years-into-the-future
 max-level-player
+chronicles-of-the-demon-faction
