@@ -15,3 +15,4 @@ myst-might-mayhem
 childhood-friend-of-the-zenith
 solo-farming-in-the-tower
 the-hero-returns
+level-1-player
