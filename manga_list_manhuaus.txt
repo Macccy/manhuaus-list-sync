@@ -39,4 +39,4 @@ a-wimps-strategy-guide-to-conquer-the-tower
 logging-10000-years-into-the-future
 max-level-player
 chronicles-of-the-demon-faction
-#the-demonic-cult-instructor-returns
+the-demonic-cult-instructor-returns
